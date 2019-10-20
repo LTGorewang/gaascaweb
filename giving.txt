@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="style.css" rel="stylesheet" type= "text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Program</title>
+</head>
+<body>
+<br>
+  <div class="container">
+    <div class="topnav">
+     <ul>	    
+	 <li><a href= "index.html"</a>Home</li>
+			    
+		        <li><a href= "service.html"</a>Service</li>
+				<li><a href= "apply.html"</a>Apply</li>
+				<li><a href= "community.html"</a>Community</li>
+			    <li class="dropdown"><a href= "about_us.html"</a>About Us<a href="javascript:void(0)" class="dropbtn"></a>
+                    <div class="dropdown-content">
+                    <a href="#">About Us</a>
+                    <a href="#">Saff</a>
+                    <a href="#">Mission</a>
+			     </li>
+				
+			<ul>
+    </div>
+  </div>
+</div>
+<p>
+<h1>OUR COMMUNITY</h1>
+<div class="clearfix">
+<img class="img2" src="gali.jpg" alt="Pineapple" width="150px" height="150px">
+Have a look at what i've been up to!
+</div>
+
+
+<h3>photoshoot</h3>
+
+
+<div class="clearfix">
+<img class="img2" src="matric.jpg" alt="Pineapple" width="150px" height="150px">
+i had a mini photoshoot with my brother.
+</div>
+
+<h3>MD 2K18</h3>
+
+<div class="clearfix">
+<img class="img2" src="smile.jpg" alt="Pineapple" width="150px" height="150px">
+i had my matric dane in March.
+</div>
+
+
+<h3>smile</h3>
+<div class="clearfix">
+<img class="img2" src="IMG_0541.jpeg" alt="Pineapple" width="150px" height="150px">
+i had my matric dane in March.
+</div>
+
+<p>
